@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d961a923-5222-4274-b364-7accb7840594" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Pytest_Framework/source/Adjust_Window_Size.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pytest_Framework/source/Automate_Control_Keys_by_Using_Action_Chains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pytest_Framework/source/Image_uploader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pytest_Framework/source/Service.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pytest_Framework/source/Service.py" afterDir="false" />
-    </list>
+    <list default="true" id="d961a923-5222-4274-b364-7accb7840594" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,20 +28,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_my_functions.test_divide.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_my_functions.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Adjust_Window_Size.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Automate_Control_Keys_by_Using_Action_Chains.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Image_uploader.executor&quot;: &quot;Run&quot;,
-    &quot;Python.connection_to_db.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_my_functions.test_divide.executor": "Run",
+    "Python tests.Python tests in test_my_functions.py.executor": "Run",
+    "Python.Adjust_Window_Size.executor": "Run",
+    "Python.Automate_Control_Keys_by_Using_Action_Chains.executor": "Run",
+    "Python.Image_uploader.executor": "Run",
+    "Python.connection_to_db.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/nagamaheshgatta/Python/Pytest",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Image_uploader">
     <configuration name="Adjust_Window_Size" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />

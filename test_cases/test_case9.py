@@ -19,4 +19,6 @@ def test_hidden_elements(browser):
 def test_destroy_element(browser):
     browser.get("https://www.yatra.com/")
     browser.find_element(By.XPATH,"//a[@id='booking_engine_hotels']").click()
+    browser.find_element(By.XPATH,"//span[normalize-space()='Traveller']").click()
+
 
